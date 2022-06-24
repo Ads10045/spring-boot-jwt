@@ -1,0 +1,8 @@
+2022-05-07 15:55:54,557 DEBUG murraco.controller.UserController [http-nio-8080-exec-2] Username debug admin 
+2022-05-07 15:55:54,559 INFO murraco.controller.UserController [http-nio-8080-exec-2] Username info  admin 
+2022-05-07 15:55:54,559 WARN murraco.controller.UserController [http-nio-8080-exec-2] Username warn admin 
+2022-05-07 15:55:54,560 ERROR murraco.controller.UserController [http-nio-8080-exec-2] Username error admin 
+2022-05-07 15:56:25,197 DEBUG murraco.controller.UserController [http-nio-8080-exec-4] Username debug admin 
+2022-05-07 15:56:25,197 INFO murraco.controller.UserController [http-nio-8080-exec-4] Username info  admin 
+2022-05-07 15:56:25,200 WARN murraco.controller.UserController [http-nio-8080-exec-4] Username warn admin 
+2022-05-07 15:56:25,209 ERROR murraco.controller.UserController [http-nio-8080-exec-4] Username error admin 

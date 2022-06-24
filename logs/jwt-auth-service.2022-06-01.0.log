@@ -1,0 +1,82 @@
+2022-06-01 07:08:36,674 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 21820 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 07:08:36,674 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 07:08:36,675 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 07:08:58,678 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 21820 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 07:08:58,679 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 07:08:58,679 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 07:11:52,387 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 21820 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 07:11:52,388 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 07:11:52,388 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 07:12:01,134 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 21820 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 07:12:01,135 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 07:12:01,135 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 07:12:39,797 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 21820 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 07:12:39,797 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 07:12:39,798 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 07:12:45,260 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 21820 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 07:12:45,261 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 07:12:45,261 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 07:13:12,070 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 21820 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 07:13:12,070 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 07:13:12,070 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 07:13:18,665 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 21820 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 07:13:18,665 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 07:13:18,665 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 07:13:19,986 INFO murraco.JwtAuthServiceApp [restartedMain] Started JwtAuthServiceApp in 1.375 seconds (JVM running for 165156.996)
+2022-06-01 07:13:50,715 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 25464 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 07:13:50,717 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 07:13:50,719 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 07:13:56,834 INFO murraco.JwtAuthServiceApp [restartedMain] Started JwtAuthServiceApp in 6.638 seconds (JVM running for 7.287)
+2022-06-01 07:52:05,207 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 25464 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 07:52:05,207 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 07:52:05,207 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 09:04:24,070 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 28212 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 09:04:24,072 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 09:04:24,074 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 09:04:30,237 INFO murraco.JwtAuthServiceApp [restartedMain] Started JwtAuthServiceApp in 6.752 seconds (JVM running for 7.437)
+2022-06-01 09:05:48,034 DEBUG murraco.controller.UserController [http-nio-8080-exec-6] Username debug admin 
+2022-06-01 09:05:48,035 INFO murraco.controller.UserController [http-nio-8080-exec-6] Username info  admin 
+2022-06-01 09:05:48,037 WARN murraco.controller.UserController [http-nio-8080-exec-6] Username warn admin 
+2022-06-01 09:05:48,038 ERROR murraco.controller.UserController [http-nio-8080-exec-6] Username error admin 
+2022-06-01 09:44:43,222 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 28212 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 09:44:43,222 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 09:44:43,223 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 09:45:06,529 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 28212 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 09:45:06,533 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 09:45:06,533 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 09:45:08,053 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 28212 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 09:45:08,053 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 09:45:08,055 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 09:45:14,649 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 28212 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 09:45:14,649 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 09:45:14,650 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 09:45:16,359 INFO murraco.JwtAuthServiceApp [restartedMain] Started JwtAuthServiceApp in 1.787 seconds (JVM running for 2453.56)
+2022-06-01 09:46:37,462 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 18812 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 09:46:37,467 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 09:46:37,468 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 09:48:42,448 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 28212 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 09:48:42,448 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 09:48:42,453 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 09:48:49,206 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 28212 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 09:48:49,207 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 09:48:49,207 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 09:48:53,798 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 28212 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 09:48:53,799 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 09:48:53,800 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 09:48:55,321 INFO murraco.JwtAuthServiceApp [restartedMain] Started JwtAuthServiceApp in 1.613 seconds (JVM running for 2672.522)
+2022-06-01 11:30:45,721 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 2996 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-06-01 11:30:45,724 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-06-01 11:30:45,726 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-01 11:30:52,229 INFO murraco.JwtAuthServiceApp [restartedMain] Started JwtAuthServiceApp in 7.156 seconds (JVM running for 7.909)
+2022-06-01 11:35:14,566 DEBUG murraco.controller.UserController [http-nio-8080-exec-2] Username debug admin 
+2022-06-01 11:35:14,568 INFO murraco.controller.UserController [http-nio-8080-exec-2] Username info  admin 
+2022-06-01 11:35:14,570 WARN murraco.controller.UserController [http-nio-8080-exec-2] Username warn admin 
+2022-06-01 11:35:14,571 ERROR murraco.controller.UserController [http-nio-8080-exec-2] Username error admin 
+2022-06-01 13:09:17,893 DEBUG murraco.controller.UserController [http-nio-8080-exec-5] Username debug admin 
+2022-06-01 13:09:17,893 INFO murraco.controller.UserController [http-nio-8080-exec-5] Username info  admin 
+2022-06-01 13:09:17,897 WARN murraco.controller.UserController [http-nio-8080-exec-5] Username warn admin 
+2022-06-01 13:09:17,898 ERROR murraco.controller.UserController [http-nio-8080-exec-5] Username error admin 
+2022-06-01 13:12:51,610 DEBUG murraco.controller.UserController [http-nio-8080-exec-8] Username debug admin 
+2022-06-01 13:12:51,610 INFO murraco.controller.UserController [http-nio-8080-exec-8] Username info  admin 
+2022-06-01 13:12:51,613 WARN murraco.controller.UserController [http-nio-8080-exec-8] Username warn admin 
+2022-06-01 13:12:51,617 ERROR murraco.controller.UserController [http-nio-8080-exec-8] Username error admin 

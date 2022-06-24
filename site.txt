@@ -1,0 +1,47 @@
+http://localhost:8080/swagger-ui.html
+37 361.72
+35 952,39
+
+40 547,63
+
+41,956
+
+14,053
+
+
+
+mvn spring-boot:run
+
+
+admin/admin
+client/admin
+
+$ curl -X GET http://localhost:8080/users/me -H 'Authorization: Bearer <JWT_TOKEN>'
+
+{
+  "id": 2,
+  "username": "client",
+  "email": "client@email.com",
+  "appUserRoles": [
+    "ROLE_CLIENT"
+  ]
+}
+
+
+{
+  "id": 1,
+  "username": "admin",
+  "email": "admin@email.com",
+  "roles": [
+    "ROLE_ADMIN"
+  ]
+}
+
+ddl-auto: update
+validate: validate the schema, makes no changes to the database.
+update: update the schema.
+create: creates the schema, destroying previous data.
+create-drop: drop the schema when the SessionFactory is closed explicitly, typically when the application is stopped.
+none: 
+
+Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsImF1dGgiOlt7ImF1dGhvcml0eSI6IlJPTEVfQURNSU4ifV0sImlhdCI6MTY1MTkzNTM4NSwiZXhwIjoxNjUxOTM1Njg1fQ.-25fNJXtItxUr6s81iJmiV5rXfMsWUDmo2V1BNuBVzo

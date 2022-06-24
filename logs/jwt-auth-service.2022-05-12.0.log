@@ -1,0 +1,157 @@
+2022-05-12 18:10:51,485 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 21604 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-05-12 18:10:51,500 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-05-12 18:10:51,500 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-12 18:11:49,816 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 20868 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-05-12 18:11:49,816 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-05-12 18:11:49,816 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-12 18:11:54,863 INFO murraco.JwtAuthServiceApp [restartedMain] Started JwtAuthServiceApp in 5.545 seconds (JVM running for 6.139)
+2022-05-12 18:13:20,135 DEBUG murraco.controller.UserController [http-nio-8080-exec-5] Username debug admin 
+2022-05-12 18:13:20,136 INFO murraco.controller.UserController [http-nio-8080-exec-5] Username info  admin 
+2022-05-12 18:13:20,139 WARN murraco.controller.UserController [http-nio-8080-exec-5] Username warn admin 
+2022-05-12 18:13:20,142 ERROR murraco.controller.UserController [http-nio-8080-exec-5] Username error admin 
+2022-05-12 18:27:40,390 DEBUG murraco.controller.UserController [http-nio-8080-exec-3] Username debug admin 
+2022-05-12 18:27:40,405 INFO murraco.controller.UserController [http-nio-8080-exec-3] Username info  admin 
+2022-05-12 18:27:40,405 WARN murraco.controller.UserController [http-nio-8080-exec-3] Username warn admin 
+2022-05-12 18:27:40,405 ERROR murraco.controller.UserController [http-nio-8080-exec-3] Username error admin 
+2022-05-12 18:35:52,689 DEBUG murraco.controller.UserController [http-nio-8080-exec-7] Username debug admin 
+2022-05-12 18:35:52,689 INFO murraco.controller.UserController [http-nio-8080-exec-7] Username info  admin 
+2022-05-12 18:35:52,691 WARN murraco.controller.UserController [http-nio-8080-exec-7] Username warn admin 
+2022-05-12 18:35:52,700 ERROR murraco.controller.UserController [http-nio-8080-exec-7] Username error admin 
+2022-05-12 18:41:29,711 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 20868 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-05-12 18:41:29,712 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-05-12 18:41:29,713 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-12 18:42:05,067 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 20868 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-05-12 18:42:05,068 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-05-12 18:42:05,068 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-12 18:42:06,602 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 20868 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-05-12 18:42:06,603 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-05-12 18:42:06,603 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-12 18:42:14,283 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 20868 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-05-12 18:42:14,283 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-05-12 18:42:14,284 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-12 18:42:15,855 INFO murraco.JwtAuthServiceApp [restartedMain] Started JwtAuthServiceApp in 1.669 seconds (JVM running for 1827.116)
+2022-05-12 18:43:09,681 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 27168 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-05-12 18:43:09,684 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-05-12 18:43:09,685 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-12 18:43:47,231 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 24128 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-05-12 18:43:47,242 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-05-12 18:43:47,243 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-12 20:39:26,704 DEBUG murraco.controller.UserController [http-nio-8080-exec-10] Username debug admin 
+2022-05-12 20:39:26,704 INFO murraco.controller.UserController [http-nio-8080-exec-10] Username info  admin 
+2022-05-12 20:39:26,706 WARN murraco.controller.UserController [http-nio-8080-exec-10] Username warn admin 
+2022-05-12 20:39:26,709 ERROR murraco.controller.UserController [http-nio-8080-exec-10] Username error admin 
+2022-05-12 20:59:05,932 DEBUG murraco.controller.UserController [http-nio-8080-exec-1] Username debug admin 
+2022-05-12 20:59:05,933 INFO murraco.controller.UserController [http-nio-8080-exec-1] Username info  admin 
+2022-05-12 20:59:05,936 WARN murraco.controller.UserController [http-nio-8080-exec-1] Username warn admin 
+2022-05-12 20:59:05,937 ERROR murraco.controller.UserController [http-nio-8080-exec-1] Username error admin 
+2022-05-12 20:59:08,335 DEBUG murraco.controller.UserController [http-nio-8080-exec-2] Username debug admin 
+2022-05-12 20:59:08,336 INFO murraco.controller.UserController [http-nio-8080-exec-2] Username info  admin 
+2022-05-12 20:59:08,337 WARN murraco.controller.UserController [http-nio-8080-exec-2] Username warn admin 
+2022-05-12 20:59:08,340 ERROR murraco.controller.UserController [http-nio-8080-exec-2] Username error admin 
+2022-05-12 21:00:44,343 DEBUG murraco.controller.UserController [http-nio-8080-exec-3] Username debug admin 
+2022-05-12 21:00:44,344 INFO murraco.controller.UserController [http-nio-8080-exec-3] Username info  admin 
+2022-05-12 21:00:44,345 WARN murraco.controller.UserController [http-nio-8080-exec-3] Username warn admin 
+2022-05-12 21:00:44,349 ERROR murraco.controller.UserController [http-nio-8080-exec-3] Username error admin 
+2022-05-12 21:00:51,494 DEBUG murraco.controller.UserController [http-nio-8080-exec-6] Username debug admin 
+2022-05-12 21:00:51,494 INFO murraco.controller.UserController [http-nio-8080-exec-6] Username info  admin 
+2022-05-12 21:00:51,496 WARN murraco.controller.UserController [http-nio-8080-exec-6] Username warn admin 
+2022-05-12 21:00:51,502 ERROR murraco.controller.UserController [http-nio-8080-exec-6] Username error admin 
+2022-05-12 21:00:56,671 DEBUG murraco.controller.UserController [http-nio-8080-exec-9] Username debug admin 
+2022-05-12 21:00:56,671 INFO murraco.controller.UserController [http-nio-8080-exec-9] Username info  admin 
+2022-05-12 21:00:56,673 WARN murraco.controller.UserController [http-nio-8080-exec-9] Username warn admin 
+2022-05-12 21:00:56,676 ERROR murraco.controller.UserController [http-nio-8080-exec-9] Username error admin 
+2022-05-12 21:02:39,125 DEBUG murraco.controller.UserController [http-nio-8080-exec-6] Username debug admin 
+2022-05-12 21:02:39,125 INFO murraco.controller.UserController [http-nio-8080-exec-6] Username info  admin 
+2022-05-12 21:02:39,127 WARN murraco.controller.UserController [http-nio-8080-exec-6] Username warn admin 
+2022-05-12 21:02:39,131 ERROR murraco.controller.UserController [http-nio-8080-exec-6] Username error admin 
+2022-05-12 21:10:00,919 DEBUG murraco.controller.UserController [http-nio-8080-exec-2] Username debug admin 
+2022-05-12 21:10:00,919 INFO murraco.controller.UserController [http-nio-8080-exec-2] Username info  admin 
+2022-05-12 21:10:00,921 WARN murraco.controller.UserController [http-nio-8080-exec-2] Username warn admin 
+2022-05-12 21:10:00,925 ERROR murraco.controller.UserController [http-nio-8080-exec-2] Username error admin 
+2022-05-12 21:10:52,898 DEBUG murraco.controller.UserController [http-nio-8080-exec-7] Username debug admin 
+2022-05-12 21:10:52,899 INFO murraco.controller.UserController [http-nio-8080-exec-7] Username info  admin 
+2022-05-12 21:10:52,901 WARN murraco.controller.UserController [http-nio-8080-exec-7] Username warn admin 
+2022-05-12 21:10:52,902 ERROR murraco.controller.UserController [http-nio-8080-exec-7] Username error admin 
+2022-05-12 21:12:34,867 DEBUG murraco.controller.UserController [http-nio-8080-exec-1] Username debug admin 
+2022-05-12 21:12:34,867 INFO murraco.controller.UserController [http-nio-8080-exec-1] Username info  admin 
+2022-05-12 21:12:34,868 WARN murraco.controller.UserController [http-nio-8080-exec-1] Username warn admin 
+2022-05-12 21:12:34,872 ERROR murraco.controller.UserController [http-nio-8080-exec-1] Username error admin 
+2022-05-12 21:12:38,293 DEBUG murraco.controller.UserController [http-nio-8080-exec-2] Username debug admin 
+2022-05-12 21:12:38,293 INFO murraco.controller.UserController [http-nio-8080-exec-2] Username info  admin 
+2022-05-12 21:12:38,295 WARN murraco.controller.UserController [http-nio-8080-exec-2] Username warn admin 
+2022-05-12 21:12:38,298 ERROR murraco.controller.UserController [http-nio-8080-exec-2] Username error admin 
+2022-05-12 21:12:45,430 DEBUG murraco.controller.UserController [http-nio-8080-exec-7] Username debug admin 
+2022-05-12 21:12:45,431 INFO murraco.controller.UserController [http-nio-8080-exec-7] Username info  admin 
+2022-05-12 21:12:45,432 WARN murraco.controller.UserController [http-nio-8080-exec-7] Username warn admin 
+2022-05-12 21:12:45,433 ERROR murraco.controller.UserController [http-nio-8080-exec-7] Username error admin 
+2022-05-12 21:15:57,500 DEBUG murraco.controller.UserController [http-nio-8080-exec-4] Username debug admin 
+2022-05-12 21:15:57,500 INFO murraco.controller.UserController [http-nio-8080-exec-4] Username info  admin 
+2022-05-12 21:15:57,502 WARN murraco.controller.UserController [http-nio-8080-exec-4] Username warn admin 
+2022-05-12 21:15:57,505 ERROR murraco.controller.UserController [http-nio-8080-exec-4] Username error admin 
+2022-05-12 21:16:05,908 DEBUG murraco.controller.UserController [http-nio-8080-exec-5] Username debug admin 
+2022-05-12 21:16:05,908 INFO murraco.controller.UserController [http-nio-8080-exec-5] Username info  admin 
+2022-05-12 21:16:05,910 WARN murraco.controller.UserController [http-nio-8080-exec-5] Username warn admin 
+2022-05-12 21:16:05,913 ERROR murraco.controller.UserController [http-nio-8080-exec-5] Username error admin 
+2022-05-12 21:16:09,900 DEBUG murraco.controller.UserController [http-nio-8080-exec-8] Username debug admin 
+2022-05-12 21:16:09,901 INFO murraco.controller.UserController [http-nio-8080-exec-8] Username info  admin 
+2022-05-12 21:16:09,903 WARN murraco.controller.UserController [http-nio-8080-exec-8] Username warn admin 
+2022-05-12 21:16:09,904 ERROR murraco.controller.UserController [http-nio-8080-exec-8] Username error admin 
+2022-05-12 21:16:28,387 DEBUG murraco.controller.UserController [http-nio-8080-exec-3] Username debug admin 
+2022-05-12 21:16:28,387 INFO murraco.controller.UserController [http-nio-8080-exec-3] Username info  admin 
+2022-05-12 21:16:28,389 WARN murraco.controller.UserController [http-nio-8080-exec-3] Username warn admin 
+2022-05-12 21:16:28,392 ERROR murraco.controller.UserController [http-nio-8080-exec-3] Username error admin 
+2022-05-12 21:17:57,034 DEBUG murraco.controller.UserController [http-nio-8080-exec-6] Username debug admin 
+2022-05-12 21:17:57,034 INFO murraco.controller.UserController [http-nio-8080-exec-6] Username info  admin 
+2022-05-12 21:17:57,036 WARN murraco.controller.UserController [http-nio-8080-exec-6] Username warn admin 
+2022-05-12 21:17:57,036 ERROR murraco.controller.UserController [http-nio-8080-exec-6] Username error admin 
+2022-05-12 21:20:53,282 DEBUG murraco.controller.UserController [http-nio-8080-exec-3] Username debug admin 
+2022-05-12 21:20:53,282 INFO murraco.controller.UserController [http-nio-8080-exec-3] Username info  admin 
+2022-05-12 21:20:53,283 WARN murraco.controller.UserController [http-nio-8080-exec-3] Username warn admin 
+2022-05-12 21:20:53,287 ERROR murraco.controller.UserController [http-nio-8080-exec-3] Username error admin 
+2022-05-12 21:24:01,870 DEBUG murraco.controller.UserController [http-nio-8080-exec-2] Username debug admin 
+2022-05-12 21:24:01,871 INFO murraco.controller.UserController [http-nio-8080-exec-2] Username info  admin 
+2022-05-12 21:24:01,873 WARN murraco.controller.UserController [http-nio-8080-exec-2] Username warn admin 
+2022-05-12 21:24:01,876 ERROR murraco.controller.UserController [http-nio-8080-exec-2] Username error admin 
+2022-05-12 21:48:07,289 DEBUG murraco.controller.UserController [http-nio-8080-exec-7] Username debug admin 
+2022-05-12 21:48:07,289 INFO murraco.controller.UserController [http-nio-8080-exec-7] Username info  admin 
+2022-05-12 21:48:07,291 WARN murraco.controller.UserController [http-nio-8080-exec-7] Username warn admin 
+2022-05-12 21:48:07,292 ERROR murraco.controller.UserController [http-nio-8080-exec-7] Username error admin 
+2022-05-12 21:51:22,624 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 20868 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-05-12 21:51:22,624 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-05-12 21:51:22,625 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-12 21:51:23,917 INFO murraco.JwtAuthServiceApp [restartedMain] Started JwtAuthServiceApp in 1.373 seconds (JVM running for 13175.183)
+2022-05-12 21:51:42,356 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 20868 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-05-12 21:51:42,356 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-05-12 21:51:42,357 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-12 21:52:45,148 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 10296 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-05-12 21:52:45,150 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-05-12 21:52:45,151 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-12 21:52:50,114 INFO murraco.JwtAuthServiceApp [restartedMain] Started JwtAuthServiceApp in 5.46 seconds (JVM running for 6.093)
+2022-05-12 21:55:35,581 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 10296 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-05-12 21:55:35,582 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-05-12 21:55:35,583 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-12 21:55:36,856 INFO murraco.JwtAuthServiceApp [restartedMain] Started JwtAuthServiceApp in 1.368 seconds (JVM running for 172.834)
+2022-05-12 21:57:12,054 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 10296 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-05-12 21:57:12,055 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-05-12 21:57:12,056 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-12 21:57:13,125 INFO murraco.JwtAuthServiceApp [restartedMain] Started JwtAuthServiceApp in 1.15 seconds (JVM running for 269.104)
+2022-05-12 21:57:59,660 INFO murraco.JwtAuthServiceApp [restartedMain] Starting JwtAuthServiceApp using Java 1.8.0_202 on DESKTOP-87DACA3 with PID 22084 (C:\DEV\workspace\spring-boot-jwt\target\classes started by ZZ00DA784 in C:\DEV\workspace\spring-boot-jwt)
+2022-05-12 21:57:59,663 DEBUG murraco.JwtAuthServiceApp [restartedMain] Running with Spring Boot v2.5.4, Spring v5.3.9
+2022-05-12 21:57:59,667 INFO murraco.JwtAuthServiceApp [restartedMain] No active profile set, falling back to default profiles: default
+2022-05-12 21:58:04,600 INFO murraco.JwtAuthServiceApp [restartedMain] Started JwtAuthServiceApp in 5.484 seconds (JVM running for 6.117)
+2022-05-12 21:58:52,834 DEBUG murraco.controller.UserController [http-nio-8080-exec-2] Username debug admin 
+2022-05-12 21:58:52,835 INFO murraco.controller.UserController [http-nio-8080-exec-2] Username info  admin 
+2022-05-12 21:58:52,836 WARN murraco.controller.UserController [http-nio-8080-exec-2] Username warn admin 
+2022-05-12 21:58:52,837 ERROR murraco.controller.UserController [http-nio-8080-exec-2] Username error admin 
+2022-05-12 21:59:01,566 DEBUG murraco.controller.UserController [http-nio-8080-exec-5] Username debug admin 
+2022-05-12 21:59:01,566 INFO murraco.controller.UserController [http-nio-8080-exec-5] Username info  admin 
+2022-05-12 21:59:01,568 WARN murraco.controller.UserController [http-nio-8080-exec-5] Username warn admin 
+2022-05-12 21:59:01,573 ERROR murraco.controller.UserController [http-nio-8080-exec-5] Username error admin 
+2022-05-12 21:59:09,163 DEBUG murraco.controller.UserController [http-nio-8080-exec-10] Username debug admin 
+2022-05-12 21:59:09,163 INFO murraco.controller.UserController [http-nio-8080-exec-10] Username info  admin 
+2022-05-12 21:59:09,165 WARN murraco.controller.UserController [http-nio-8080-exec-10] Username warn admin 
+2022-05-12 21:59:09,170 ERROR murraco.controller.UserController [http-nio-8080-exec-10] Username error admin 
+2022-05-12 21:59:26,857 DEBUG murraco.controller.UserController [http-nio-8080-exec-5] Username debug admin 
+2022-05-12 21:59:26,858 INFO murraco.controller.UserController [http-nio-8080-exec-5] Username info  admin 
+2022-05-12 21:59:26,860 WARN murraco.controller.UserController [http-nio-8080-exec-5] Username warn admin 
+2022-05-12 21:59:26,861 ERROR murraco.controller.UserController [http-nio-8080-exec-5] Username error admin 
